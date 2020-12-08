@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 😄 coding rookie
+- ⚡ Python / Golang
+- 🏃 Swimming / Running
+
+
 <!--
 **Agnewee/agnewee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
